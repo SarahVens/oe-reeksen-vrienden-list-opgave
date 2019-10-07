@@ -2,6 +2,8 @@ oe-reeksen-arrays-collections-vrienden-list-start
 
 Vrienden beheren in een list
 # Vrienden: List
+![screenshot](/images/screenshot.png)
+
 ## List<>
 In de list *vrienden* kun je de namen van je vrienden opslaan. 
 In de list *geboorteJaren* worden de geboortejaren van de vrienden bijgehouden. 
