@@ -1,0 +1,75 @@
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe.config
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.pdb
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\App.g.cs
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.cache
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.lref
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.g.resources
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.exe
+C:\Users\Administrator\Dropbox\IVO\Oefeningen\Hfst 04 - Arrays and collections\VriendenList\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.pdb
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe.config
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.pdb
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csprojResolveAssemblyReference.cache
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\MainWindow.g.cs
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\App.g.cs
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.cache
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.lref
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\MainWindow.baml
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.g.resources
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.Properties.Resources.resources
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.GenerateResource.Cache
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.CoreCompileInputs.cache
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.exe
+D:\04\Vrienden - met List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.pdb
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe.config
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.pdb
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\App.g.cs
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.cache
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.lref
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.g.resources
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.Properties.Resources.resources
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.GenerateResource.Cache
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.exe
+C:\Users\Stef\Google Drive\Stef\HBO5\Oef\04\Vrienden3 - List\VriendenList\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.pdb
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe.config
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.pdb
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csprojAssemblyReference.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\MainWindow.g.cs
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\App.g.cs
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.lref
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\MainWindow.baml
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.g.resources
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.Properties.Resources.resources
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.GenerateResource.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.CoreCompileInputs.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.exe
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f- Vrienden - List\Vrienden3 - List - Opl\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.pdb
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe.config
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.exe
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\bin\Debug\VriendenList.Wpf.pdb
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csprojAssemblyReference.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\MainWindow.g.cs
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\App.g.cs
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf_MarkupCompile.lref
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\MainWindow.baml
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.g.resources
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.Properties.Resources.resources
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.GenerateResource.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.csproj.CoreCompileInputs.cache
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.exe
+D:\OD\OneDrive - Hogeschool West-Vlaanderen\Oef\05 - Reeksen\05f - Vrienden - List\05f-Vrienden3 - List - Start\VriendenList.Wpf\obj\Debug\VriendenList.Wpf.pdb
